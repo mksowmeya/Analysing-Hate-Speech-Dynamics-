@@ -1,2 +1,7 @@
-# Analysing-Hate-Speech-Dynamics-
+# Analysing-Hate-Speech-Dynamics
 The goal of this project is to leverage text mining and natural language processing techniques to analyze hate speech in Twitter data, with the aim of understanding its prevalence, characteristics, and impact.
+By achieving this goal, we aim to contribute to a better understanding of hate speech dynamics on the platform and potentially develop or improve automated tools for hate speech detection and moderation, while considering the ethical implications of such technology.
+The ML models employed in this project encompass a diverse range to ensure comprehensive analysis. Common models include logistic regression, decision trees, random forests, support vector machines, and neural networks. The selection is tailored to the specific tasks, such as sentiment analysis and topic modeling, with a focus on achieving optimal performance and interpretability. This approach allows for a nuanced understanding of textual data, contributing to the project's overarching goal of hate speech analysis on Twitter.
+
+<img width="1181" alt="Screenshot 2024-01-12 at 2 18 47 PM" src="https://github.com/mksowmeya/Analysing-Hate-Speech-Dynamics-/assets/51466866/ad668308-c2c7-4b38-b7f8-c88f3b232892">
+<img width="1141" alt="Screenshot 2024-01-12 at 2 19 06 PM" src="https://github.com/mksowmeya/Analysing-Hate-Speech-Dynamics-/assets/51466866/8232f998-2b1d-4b8a-a31d-f17b896ede29">
